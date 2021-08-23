@@ -1,0 +1,1 @@
+Attractive website using robust box model and @media rules to respond to different screen sizes.
